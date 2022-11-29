@@ -3,7 +3,7 @@ package Level1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FindPrimary {
+public class MakePrimary {
     public static void main(String[] args) {
         int[] nums={1, 2, 3, 4};
         System.out.println(solution(nums));
