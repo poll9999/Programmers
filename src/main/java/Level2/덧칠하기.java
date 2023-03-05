@@ -21,7 +21,6 @@ public class 덧칠하기 {
             answer += 1;
             max = section[i] + m;
         }
-
         return answer;
     }
 }
